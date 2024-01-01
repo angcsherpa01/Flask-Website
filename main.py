@@ -8,7 +8,7 @@ def create_app():
                 
     
     return app
-
+# new text 
 app = create_app()
 db = SQLAlchemy(app)
 
